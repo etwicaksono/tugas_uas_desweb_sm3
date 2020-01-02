@@ -1,0 +1,15 @@
+
+.sub-container {
+	margin: 10px;
+	border: solid 1px #646469;
+	border-radius: 25px;
+	padding: 10px;
+	
+}
+
+
+.thread-tittle{
+	padding-left: 10px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
+	font-size: 30px;
+}

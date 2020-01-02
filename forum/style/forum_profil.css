@@ -1,0 +1,44 @@
+.img-cover{
+    height: 20vw;
+    background-color: #00ff40;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: 50%;
+}
+
+.img-cover #sampul .carousel-inner{
+    height: 20vw;
+}
+.img-profil {
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 10vw;
+    margin-left: 5vw;
+}
+
+.img-profil img{
+    width: 15vw;
+    border-radius: 50%;
+    border: solid 0.5vw grey;
+}
+
+.sub-container{
+    border: solid 1px #646469;
+    border-radius: 1vw;
+    height: auto;
+    margin-top: 1vw;
+    padding: 1vw;
+}
+
+.bio{
+    color: #646469;
+}
+
+.bio-numb{
+    width: 33%;
+    color: blue;
+    font-size: 3vw;
+}
+
+.bio-text{
+    font-size: 1.5vw;
+}
